@@ -1,4 +1,4 @@
-import "./style.scss";
+import "./scss/style.scss";
 import "./woof.css";
 
 const headline = 'Welcome to the webpage'; 
