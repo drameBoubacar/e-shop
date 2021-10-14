@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    figure{
+        border: 1px solid salmon;
+        margin: 0;
+        margin-top: 0px;
+        margin-right: 0px;
+        margin-right: 40px;
+        margin-top: 40px;
+        width: 11%;
+        img{
+            height: 40vh;
+            width: 100%;
+        }
+        figcaption{
+            background-color: salmon;
+            color: #ffff;
+            text-align: center;
+        }
+    }
+}
