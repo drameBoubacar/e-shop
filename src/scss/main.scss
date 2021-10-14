@@ -1,4 +1,10 @@
-@import './layout/_header.scss';
-@import './layout/_card.scss';
-@import './base/_reset.scss';
-@import './abstracts/_variables.scss';
+@import './abstracts/variables';
+
+@import './base/reset';
+
+// include layout directory
+@import './layout/_header';
+@import './layout/card';
+
+// include component directory
+
