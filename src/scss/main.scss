@@ -1,7 +1,11 @@
 @import './abstracts/variables';
 
-@import './layout/_header';
 @import './base/reset';
+
+// include layout directory
+@import './layout/_header';
 @import './layout/card';
-//@import './layout/footer';
-//@import './components/nav';
+
+// include component directory
+
+
