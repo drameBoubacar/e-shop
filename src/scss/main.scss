@@ -2,10 +2,8 @@
 
 @import './base/reset';
 
-// include layout directory
-@import './layout/_header';
 @import './layout/card';
-
-// include component directory
-
+@import './layout/footer';
+@import './base/reset';
+@import './components/nav';
 
