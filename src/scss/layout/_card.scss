@@ -45,3 +45,14 @@
         }
     }
 }
+
+@media screen and (max-width: 319px){
+    .container {
+        figure {
+            width: 100%;
+            img {
+                height: 15vh;
+            }
+        }
+    }
+}
