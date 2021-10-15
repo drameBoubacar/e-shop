@@ -4,14 +4,14 @@
     margin:0 6%;
     padding-bottom: 5%;
     figure{
-        border: 1px solid salmon;
+        border: 1px solid $bg-salmon;
         width: 15%;
         img{
             height: 40vh;
             width: 100%;
         }
         figcaption{
-            background-color: salmon;
+            background-color: $bg-salmon;
             color: #ffff;
             padding: 10px;
             text-align: center;
