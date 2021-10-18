@@ -23,6 +23,16 @@
     }
 }
 
+@media screen and (min-width: 1025px) {
+   .container {
+       figure {
+           img {
+               height: 25vh;
+           }
+       }
+   } 
+}
+
 @media screen and (min-width: 600px) and (max-width: 1024px) {
 
     .container {
