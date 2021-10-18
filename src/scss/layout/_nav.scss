@@ -1,9 +1,15 @@
 nav {
     
     a {
-        text-decoration: none;
         color: $color-link;
-        margin-right: 2%;
-        font-size: 25px;
+        font: 25px;
+        margin: 0 2% 0 0;
+        text-decoration: none;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 600px){
+    nav {
+        text-align: center;
     }
 }

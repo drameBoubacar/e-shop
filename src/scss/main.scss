@@ -1,15 +1,15 @@
 // ABSTRACTS
-@import './abstracts/variables';
+@import './abstracts/_variables';
 
 // BASE
-@import './base/typography';
-@import './base/reset';
+@import './base/_typography';
+@import './base/_reset';
 
 // LAYOUT
 @import './layout/_header';
-@import './layout/card';
-@import './layout/footer';
+@import './layout/_footer';
 
 // COMPONENTS
-@import './components/nav';
+@import './components/_card';
+@import './components/_nav';
 
