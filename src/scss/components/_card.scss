@@ -5,7 +5,7 @@
     padding: 0 0 5% 0;
 
     figure {
-        border: 1px solid $bg-salmon;
+        border: 1px solid $bg-header;
         margin: auto;
         margin: 5rem 5rem 0 0;
         width: 20%;
@@ -16,7 +16,7 @@
         }
 
         figcaption {
-            background: $bg-salmon;
+            background: $bg-header;
             color: $primary-color;
             padding: 10px;
             text-align: center;
