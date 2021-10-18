@@ -31,8 +31,13 @@
 
         figure {
             margin: auto;
-            margin-top: 50px 0 0 0;
             width: 40%;
+            img {
+                height: 16vh;
+            }
+            figcaption {
+                margin: 0 0 3rem 0;
+            }
         }
     }
 }
@@ -45,9 +50,14 @@
 
         figure {
             width: 100%;
+            margin: auto;
 
             img {
                 height: 25vh;
+            }
+
+            figcaption {
+                margin: 0 0 3rem 0;
             }
         }
     }
