@@ -4,7 +4,11 @@ body {
 }
 
 h2 {
-    text-align: center;
-    color: $bg-salmon;
+    background: $bg-title;
+    color: $bg-header;
     font-size: 35px;
+    margin: 0;
+    padding: 1rem 0;
+    text-align: center;
+    
 }

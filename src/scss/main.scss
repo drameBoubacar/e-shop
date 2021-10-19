@@ -6,10 +6,10 @@
 @import './base/reset';
 
 // LAYOUT
-@import './layout/_header';
-@import './layout/card';
+@import './layout/header';
 @import './layout/footer';
 
 // COMPONENTS
+@import './components/card';
 @import './components/nav';
 
